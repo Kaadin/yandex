@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexTest", "YandexTest\YandexTest.csproj", "{E00A73A9-32EB-4083-AC1C-F65BF968648B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{B231084B-4448-4AE4-AF71-D0E6F900742B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E00A73A9-32EB-4083-AC1C-F65BF968648B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E00A73A9-32EB-4083-AC1C-F65BF968648B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E00A73A9-32EB-4083-AC1C-F65BF968648B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B231084B-4448-4AE4-AF71-D0E6F900742B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B231084B-4448-4AE4-AF71-D0E6F900742B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B231084B-4448-4AE4-AF71-D0E6F900742B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B231084B-4448-4AE4-AF71-D0E6F900742B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
